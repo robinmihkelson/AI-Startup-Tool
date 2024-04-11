@@ -1,1 +1,1 @@
-# Website made from figma design usign HTML and CSS
+# Website made from figma design using HTML and CSS
